@@ -9,6 +9,6 @@ This is a repository of some Arabic tweets. Please use the pre-processed dataset
 However, you should let the author know by email if you get results using these data.
 ==================================================================
 
- - Preprocessed 5M Arabic tweets can be downloaded from https://we.tl/t-L2yNNgIK6t 
+ - Preprocessed 5M Arabic tweets
 
-1)	AllCovid19Tweets.txt
+1)	AllCovid19Tweets.txt can be downloaded from https://we.tl/t-L2yNNgIK6t
