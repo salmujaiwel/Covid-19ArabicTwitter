@@ -2,7 +2,7 @@
 
 Arabic Tweets on Covid-19 (1 March - 30 April). Please use the pre-processed datasets for your own gain. However, you may let the author know by email if you get results using these data.
 
- - Preprocessed 5M Arabic tweets 
+ - Preprocessed 5M Arabic tweets
  Datasets can be obtained. Kindly email me on salmujaiwel@ksu.edu.sa
  
  - Processed data containg the dates and the raw locations
