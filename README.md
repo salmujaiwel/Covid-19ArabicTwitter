@@ -6,7 +6,7 @@ Arabic Tweets on Covid-19 (1 March - 30 April). Please use the pre-processed dat
  
  Datasets can be obtained. Kindly email me on salmujaiwel@hotmail.com
  
- - Processed data containg the dates and the raw locations
+ - Processed data containing the dates and the raw locations
  
 1)	كورونا# (coronavirus.txt)
 2)	فيروس_كورونا# (covid-19.txt)
