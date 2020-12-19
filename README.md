@@ -13,3 +13,5 @@ Arabic Tweets on Covid-19 (1 March - 30 April). Please use the pre-processed dat
 3)	منع_التجول# and حظر_التجول# (curfew.txt)
 4)	كورونا_المستجد# (novel_coronavirus.txt)
 5)	العالم_في_مواجهة_كورونا# (world_facing_covid-19.txt)
+
+Code for segmenting and tokenizing texts and for extracting keywords from text files. 
